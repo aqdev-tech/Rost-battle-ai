@@ -13,7 +13,7 @@ import json
 app = FastAPI()
 
 # Serve static files (CSS, JS, images)
-app.mount("/static", StaticFiles(directory="static"), name="static")
+#app.mount("/static", StaticFiles(directory="static"), name="static")
 
 # Configure Jinja2 for HTML templates
 templates = Jinja2Templates(directory="templates")

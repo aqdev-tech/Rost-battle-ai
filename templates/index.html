@@ -120,7 +120,7 @@
     </div>
 
     <script>
-        const BASE_URL = "ws://127.0.0.1:8000/ws/roast"; // Change this to your deployed server URL
+        const BASE_URL = "wss://rost-battle-ai-bot.onrender.com/ws/roast";        // Change this to your deployed server URL
         let socket = new WebSocket(BASE_URL);
 
         socket.onopen = () => console.log("🔥 Connected to roast server!");
