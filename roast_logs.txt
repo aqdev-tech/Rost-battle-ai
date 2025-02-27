@@ -1,0 +1,176 @@
+2025-02-27 20:42:53,936 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 20:42:56,699 - User: You dey mad you we no get sense | Level: medium | Roast: Ah, Oga/Madam! See your mouth like say you just chop pepper soup. You dey claim say I dey mad, but wetin be your own problem sef? You resemble person wey dem pursue from market, dey shout say dem thief your money.
+
+No be lie say you no get sense, but e be like say your own case pass mine. You dey there dey talk anyhow like say you be parrot wey drink too much palm wine. Instead of you to dey find solution to your problem, you dey here dey insult person.
+
+But no worry, we go manage you like this. Just try no to vex person o, before you go hear am! \U0001f602
+
+2025-02-27 20:44:56,977 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 20:44:59,568 - User: You dey mad you we no get sense | Level: savage | Roast: Oya hear this one! **Your face be like say somebody just use am play table tennis! E dey so rough, even mosquito fit trip and break im leg!**
+
+And your brain? **E be like say na generator wey dey use fuel wey don expire. E dey try, try, try... but nothing dey comot! Just smoke and noise!**
+
+**You dey talk say you no get sense? E no be say we no know o! Na your village people don borrow am finish! Dem dey use your brain buy akara!**
+
+**Oya, shift! Before your ugliness spoil my phone camera!** 
+
+2025-02-27 20:52:56,992 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 20:52:57,004 - Error: 'NoneType' object is not subscriptable
+2025-02-27 20:53:11,665 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 20:53:11,667 - Error: 'NoneType' object is not subscriptable
+2025-02-27 20:53:23,491 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 20:53:23,538 - Error: 'NoneType' object is not subscriptable
+2025-02-27 20:55:58,272 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 20:55:58,288 - Error: 'NoneType' object is not subscriptable
+2025-02-27 20:57:15,248 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 20:57:15,279 - Error: 'NoneType' object is not subscriptable
+2025-02-27 21:13:01,824 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 21:13:04,660 - User: how far u dey mad | Level: medium | Gender: male | Roast: Oya, Mr. "How Far You Dey Mad?!" So you think just because you can string two words together in Pidgin you're suddenly a Don? See ehn, your "mad" self dey look like say dem don use strong weed cook your brain. You dey there dey ask if person mad, when your own head sef resemble overgrown bush wey nobody don even attempt to clear. 
+
+Abeg, go find better things to do with your time, like maybe learning how to iron your agbada properly. You're asking if people are mad when you, yourself, dey walk around looking like you lost your barber during a serious mental breakdown. Carry your wahala go!
+
+2025-02-27 21:13:30,283 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 21:13:37,311 - User: how far u dey mad | Level: savage | Gender: male | Roast: Oya, make we begin dis kain wahala wey go burst your brain! 
+
+**Person wey dem dey roast, hear dis:**
+
+*   **See your face like say you swallow cement!** Wetin dey do you sef? You no dey chop belleful for life?
+
+*   **Your head just be like coconut wey person don crack already. Empty and useless!** You even know wetin you dey find for dis world?
+
+*   **You be like generator wey never start. Always making noise but no power!** Talk is cheap, action no dey.
+
+*   **E be like say them born you with "please" and "sorry" for your mouth.** Man, where your chest dey?
+
+*   **Your sense dey like power supply for Nigeria. Sometimes you get, sometimes you no get.** We dey always guess, hope say brain go show up.
+
+*   **If sense be like money, you go be like one poor beggar wey no get shishi!** You think say e easy to be smart, abi?
+
+*   **You be like sand-sand wey wind wan blow comot from beach.** No foundation, no substance, just dey float around anyhow!
+
+*   **Your level no reach ground sef, even ant pass you!** Small challenge wey come, you don fall.
+
+*   **Wetin remain for you for life?** You dey bore person anyhow!
+
+**I swear, I go continue, but my hand don tire to create more wahala!...**
+
+2025-02-27 21:21:22,034 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 21:21:26,026 - User: , my friend! You be like plantain wey no ripe - always green, never ready. Your brain dey work like NEPA light - always off when you need am. You dey try sha, but your sense dey on strike like Nigerian worker. Keep it up, one day you go make am! \U0001f602 | Level: medium | Gender: male | Roast: Omo, your friend ehn... Na so so pity I dey feel for am! See this guy, him head like say dem don dey shave am with lawnmower. Hairline don retreat faster than Buhari when e dey hear "restructuring". You see dat receding hairline? Na map of him future failures dey trace am.
+
+This guy go come dey form "alpha" like lion wey dey roar, meanwhile him wallet dey squeak like rat wey dey find cheese. Dey talk say "I be boss, I be this, I be dat". Boss ke? Na boss of poverty, and chairman of "borrow borrow" you be! Even your shoes dey wear better life than you.
+
+You dey there dey form like say you sabi pass anybody, but your life na film wey nobody wan watch. Your "sense" dey sleep, your brain dey on "low battery" and you dey carry yourself like say you don turn Dangote.
+
+Oya, go dust your "achievement", maybe e go add to your ego. Ehen, and make sure you no forget to take am to the drycleaner. Your life don dey stale pass garri wey e don pass week for market.
+2025-02-27 21:22:14,121 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 21:22:19,233 - User: You be like plantain wey no ripe - always green, never ready. Your brain dey work like NEPA light - always off when you need am. You dey try sha, but your sense dey on strike like Nigerian worker. Keep it up, one day you go make am! \U0001f602 | Level: medium | Gender: male | Roast: Aight, hear wetin I go tell you, Mr. "Keep it up." You think say dat kain light roast go touch me? Walahi, your own 'roast' no dey even sweet pass garri! You think say you get sense? Abeg, your head like abandoned project site, full of potentials wey never see road.
+
+**Receding Hairline:** Let's talk about dat **hairline sef**, wey dey run from your face like say you carry bad luck! You resemble one old man wey dey chop life pass him age! You dey spend time on those 'alpha' podcasts, but your head already bald pass say you dey listen to motivational speakers. Na them cause problem!
+
+**Fake Alpha Mindset:** Alpha? Oga, **you be beta-beta, alpha-beta!** You dey talk tough, forming big man, but your bank account dey look like empty canteen after school break. You dey form "boss" but your wahala sef don cast you finish. If you be boss, where your salary dey? Where the car wey dem suppose give boss like you? Where everything? 
+
+**Empty Wallet:** You dey try to impress people wey no send you, while your pocket dey echo like village well wey no get water. Na only noise you get, e no reach to buy suya. You talk too much and do nothing.
+No be to dey form, show us e result!
+
+**Delusions of Grandeur:** You dey dream big, ehn? Dream till you wake up and realize say na only air you chop. E be like say you dey use all that pride to cover up your own shortcomings, you be like those politicians wey dey promise heaven and earth, but na only groundnut they dey serve us.
+
+So, my friend, before you come try roast again, go find better ingredients for your roast. Until then, park wella!
+2025-02-27 21:22:51,898 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 21:22:54,874 - User: You be like plantain wey no ripe - always green, never ready. Your brain dey work like NEPA light - always off when you need am. You dey try sha, but your sense dey on strike like Nigerian worker. Keep it up, one day you go make am! \U0001f602 | Level: savage | Gender: male | Roast: Oya, abeg shift! You be like that okada wey dem don strip, just the frame remain. You dey waka around like say you be boss, but your pocket dry pass desert. See that your hairline? E dey retreat faster than Boko Haram for army parade. You dey talk tough, but you fit fear cockroach.
+
+You dey here dey form alpha, but your phone na second-hand and your shoe na "Tokunbo." Person like you, na to just dey manage, dey manage until time reach. No be you wey dem tell say "fake am till you make am?" Oya, continue o, we dey look you.
+
+Your swagger pass the money wey dey your account. You dey there dey flex like say life easy, but your mama still dey pay your rent. Ehn, continue to dey live in denial. One day, you go wake up and reality go slap you ehn! Person wey never chop Bellefull still dey form big man.
+2025-02-27 21:23:27,278 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 21:23:33,225 - User: You be like plantain wey no ripe - always green, never ready. Your brain dey work like NEPA light - always off when you need am. You dey try sha, but your sense dey on strike like Nigerian worker. Keep it up, one day you go make am! \U0001f602 | Level: savage | Gender: male | Roast: Oya, make we hear word from this "plantain wey no ripe"! See this one wey dey talk like say e get sense!
+
+**Look:**
+*   **Your head self na like satellite dish wey don lose signal!** This receding hairline of yours na map of your future loneliness! Dem say when your hair dey fall like say e dey pour sand, na to find better pepper soup chop to make you happy.
+*   **See this face!** You look like say you just wake up from a marathon of crying! Your face dey tell story of say you no get joy, and your mirror don tire to reflect your face.
+
+**Personality & Lifestyle:**
+*   **You dey form alpha, but your bank account na beta zero!** You dey talk tough, but you fit run comot if you see one small cockroach! Na only mouth you get, no action. Na like Agbero wey no get motor.
+*   **Your swagger na e dey make me laugh!** You dey try to impress people with things wey no dey, and you dey live for the gram instead of living in the real world. You be like those people wey buy designer clothes, but dem no get food to chop!
+*   **Your sense of humor na like stale bread!** Dry, no joy, and nobody want am! You dey try crack jokes, but e just dey fall flat.
+*   **You dey think say you be boss, meanwhile your mama still dey give you pocket money!** All this big man talk na just to cover the fact say you still dey depend on people. You think you be lion, but you be more like village dog wey dey bark at shadows.
+
+**Overall:**
+*   **My brother, you be case wey dey make the village people run!** Every time I look your direction, I carry holy water for hand. Na wa for you!
+*   **Forget say you go make am. You need serious deliverance!** You need to go find your purpose because right now, you be like a misplaced file.
+*   **You no even sabi wetin you go do with your life.** You just dey waka about, wasting oxygen and annoying everybody wey your path cross!
+
+Oya, gather your sense and go! Before I roast you finish!
+2025-02-27 21:26:16,044 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 21:26:19,661 - User: You be like plantain wey no ripe - always green, never ready. Your brain dey work like NEPA light - always off when you need am. You dey try sha, but your sense dey on strike like Nigerian worker. Keep it up, one day you go make am! \U0001f602 | Level: savage | Gender: male | Roast: Ah, bros! See this one wey dey here, e be like say dem born am for inside cassava farm, so e no get sense at all. Your face sef be like wetin fly don use for football practice, full of potholes and bumps. 
+
+You dey talk say you dey try? Oga, try wetin? Try to dey breathe? Even the air wey you dey take in no wan gree stay for your body, e dey find way to escape sharp sharp.
+
+Your mama sef, I pity am. She carry you belle for nine months, only for you to come out like this, empty-headed and full of rubbish.
+
+And your dressing? Abeg, no talk am! E be like say you just come out from inside fire, wear cloth wey dey burn. Your style no get direction, e dey scatter everywhere.
+
+You dey laugh? E be like say you never look yourself for mirror. You be like a joke wey person don tell finish, nobody wan hear again.
+
+Oya, commot from here before my blood pressure go start to climb. Go find better things to do with your life, before you disgrace yourself finish. Ode!
+2025-02-27 21:26:42,575 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 21:26:45,647 - User: You be like plantain wey no ripe - always green, never ready. Your brain dey work like NEPA light - always off when you need am. You dey try sha, but your sense dey on strike like Nigerian worker. Keep it up, one day you go make am! \U0001f602 | Level: savage | Gender: female | Roast: Ashawo wey dey form oyibo! See this one wey dey waka like say she carry better belle, na only empty headfull she carry! Your face, e be like say dem use sandpaper polish am finish, but na Snapchat be the real barber! Without that filter, you be like masquerade wey rain beat, all the colours don fade. Dem say beauty is in the eye of the beholder, but for your case, the beholder need strong eye like welder! You dey rely on filters pass NEPA, and even with the filter, you still resemble something wey dem pour garri for face! Abeg, go find work, no be just to dey form online. Your sense dey on vacation, and I no know when e go return!
+2025-02-27 21:33:38,146 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 21:33:39,319 - User: How far u dey craze | Level: savage | Gender: male | Roast: Oga, so na dis kain question you come ask me? You think say I dey your mate wey you go dey call "craze"? Abeg make you comot my front before I curse for you.
+2025-02-27 21:34:06,776 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 21:34:08,633 - User: How far u dey mad stupid gaoat | Level: savage | Gender: male | Roast: Oya, make we see this your useless self. See your head like coconut wey dem don crack finish. You no get sense, your brain na empty calabash. E remain small you go begin dey eat grass like goat wey you be. So, na you be this useless person? Abeg commot! You dey make person sick!
+2025-02-27 21:34:32,665 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 21:34:35,301 - User: How far u dey mad stupid gaoat | Level: savage | Gender: female | Roast: Omo, see this one wey dey form boss babe! So you, wey your wig dey cost more than my rent, you still dey beg for transport money? Ahn ahn! After all the "hustle" and "grind" wey you dey yarn, na still Okada you wan take?
+
+Madam wey dey wear designer handbag wey fit buy my whole village, you still dey price gala and pure water for bus stop? E be like say your "success" no reach anywhere o!
+
+See, your wahala don plenty pass Buhari's cabinet. You dey there dey form influencer, but your account balance empty like my garri after belleful. 
+
+Go siddon! You no sabi wetin you dey do.
+2025-02-27 21:34:47,782 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 21:34:51,769 - User: How far u dey mad stupid gaoat | Level: savage | Gender: male | Roast: Oya, make we begin!
+
+**Person wey dem dey talk to, me I nor sabi your name, but sha...**
+
+See ehn, person wey dem dey talk to, your papa and mama nah im dey owe us apology! How person wey dem born like you fit dey waka for road? You think say na runway you dey do? Your facial expression, e be like say you just bite lemon wey don sour pass tomorrow!
+
+Your head self, e don dey resemble coconut wey person don finish to drink the water. Na which kain village person born you? You think say you fine? Fine ke? You be like that motor wey dem don jam finish, e don spoil finish, dem con just dey manage am dey push am for road. 
+
+And your cloth sef, e look like say na from okrika market you carry am come. See your shoe, e be like say na the one wey your papa wear go farm since 1980.
+
+You think say you sabi talk? Ehn, your mouth dey like the entrance of a dark, smelly gutter! Everything wey you talk, e dey sound like say you dey sing off-key for choir!
+
+Go go, abeg! Make you just disappear! We nor want see your face again! You dey spoil air!
+2025-02-27 21:39:04,554 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 21:39:07,450 - User: How far u dey mad stupid gaoat | Level: savage | Gender: male | Roast: Oya, listen up, you overgrown yam head! See your life? E be like say na only chasing skirt you sabi. You dey run after women like say na free food dem dey share. But instead of am, you get ignored pass MTN network for Sambisa forest! 
+
+You think say you fine abi? Your face be like say somebody use am play football, and your swagger be like say na wet garri you take swallow. So you dey there, forming Mr. Loverman, when you're actually more like Mr. Nobody. Dem go see your missed call, dem go just "swipe away". You hear me? 
+
+Oya, waka! Go siddon for corner, and rethink your life. Maybe if you try to be useful for once, instead of just being a professional woman chaser, things go change. But for now, you're just a disgrace!
+2025-02-27 21:46:08,276 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 21:46:12,809 - User: How far u dey mad stupid gaoat | Level: savage | Gender: male | Roast: Oya, oya! See this overgrown yam head wey dey call himself "gaoat"!  Who even give you permission to open your dirty mouth? Abi you no see say you just wake up from your village, still dey carry your mama face?  
+
+Look at you, looking like a malnourished lizard wey miss road.  Your brain sef na like burnt okro - soft and useless.  Wetin you dey find sef?  You think say you be something?  You be nothing, absolutely nothing! You be like that useless phone wey no get battery, just dey there, just dey look. 
+
+Go and find better things to do, instead of wasting my time with your empty head!  Ode!
+2025-02-27 21:54:48,324 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 21:54:51,167 - User: How far u dey mad stupid gaoat | Level: savage | Gender: male | Roast: Oya, comot for here with your useless self! See your face wey be like say dem carry cassava pound am with sand! You be like say na agbada dem sew for monkey wey miss road. You dey waka up and down, chasing women like say na you be Femi Kuti. But dem dey look you like say you be fly wey land for shit! 
+
+Your problem na the face wey resemble say your mama no get mirror when she dey born you. You dey talk, but your mouth just dey run like tap wey nobody close. Nobody wan even answer your call, even Glo sef no wan give you network. So you self know say you no get value! Go siddon for corner, abeg!
+2025-02-27 22:00:53,641 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 22:00:59,767 - User: How far u dey mad stupid gaoat | Level: medium | Gender: male | Roast: Aha! So you be di person wey dey use "How far" greet your village people? Oya, make we see how far YOUR "how far" don reach for dis matter wey we dey talk. E be like say na the kind person wey go chase skirt ehn, until e leg tire, come end up like stray dog wey dem dey shoo from every angle!
+
+*   **You wey dey chase woman like say na your inheritance dem wan thief!** E be like say na Olympic race you dey compete for, for the number of women wey you dey pursue. But the irony be say, dem go dey ignore you like say na missed call for MTN network full of wahala.
+*   **Your love life na like Nollywood film:** Full of drama, sometimes funny, but most times, just irritating and predictable. You think say you be Romeo, but e be like say you be like one of those village clowns wey dey make people laugh for free.
+*   **You dey there, dey form "sweet talk",** dey pour sugar-coated words wey no get substance. E be like say na only empty promises you know how to make, while your own love life dey dry up like cassava wey no drink water.
+
+So, tell me, my friend: After all dis chasing, wetin you don achieve? You don turn to a professional admirer wey know how to toast, but no get any "toast" to show for im efforts? Oya, dey there, continue to dey chase your shadow! Maybe one day, you go fit catch am.
+2025-02-27 22:02:14,472 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 22:02:17,476 - User: How far u dey mad stupid gaoat | Level: savage | Gender: male | Roast: Oya, make we see your face wey dem born for village! You wey be like say light no dey your house, e no go reach your brain! With your useless head, na so you go take dey disgrace your family? See your mouth wey be like say monkey just carry chop koko.
+2025-02-27 22:02:21,871 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 22:02:26,484 - User: How far u dey mad stupid gaoat | Level: savage | Gender: male | Roast: Oya, so na you be dat wey dey fly like say you be private jet, but your pocket dry pass Sahara Desert? Dem see you, dey wear designer, carry phone wey cost pass my village land, but you still dey beg for data! **Data!** Like say you no sabi say data na for people wey get money, no be for clout chasers like you.
+
+You dey there, dey form big boy, dey post pictures with big cars wey no be your own. You be like parrot wey dey mimic rich people. Instead of you to hustle, you dey there, dey form "investor" wey no get one kobo to invest.
+
+Tell me, wetin be your work sef? Dem no see you for any work place, na only social media you sabi. You resemble person wey dem tie belle for party, wey no fit chop anything.
+
+**Ode!** You hear wetin I talk? Na you I dey talk to! Now, carry your fake life for head, go find work, and stop disgracing yourself online. If no be like say you be "influencer," who go even know say you dey alive? Useless thing!

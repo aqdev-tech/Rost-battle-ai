@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>💀 AI Roast Bot 🔥</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        /* Custom CSS for a spooky AI theme */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(to bottom, #111, #333);
+            color: #eee;
+        }
+
+        .container {
+            position: relative;
+            z-index: 1; /* Ensure content is above the background */
+        }
+
+        /* Loading spinner */
+        .loader {
+            border: 5px solid #f3f3f3;
+            border-top: 5px solid #3498db;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 2s linear infinite;
+            margin: 20px auto;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* Neon glow effect */
+        .neon-glow {
+            text-shadow:
+                0 0 5px #fff,
+                0 0 10px #fff,
+                0 0 20px #bc13fe,
+                0 0 30px #bc13fe,
+                0 0 40px #bc13fe,
+                0 0 55px #bc13fe,
+                0 0 75px #bc13fe;
+        }
+
+        /* Dark glass effect */
+        .glass {
+            background: rgba(0, 0, 0, 0.6);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        /* AI eyes background */
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url('https://wallpapers.com/images/high/ominous-jack-o-lantern-in-the-dark-sqjqa3jybrx64jix.webp'); /* Replace with an actual image */
+            background-size: cover;
+            opacity: 0.2;
+            z-index: 0;
+            pointer-events: none;
+        }
+
+        /* Button hover glow */
+        button:hover {
+            box-shadow: 0 0 10px rgba(255, 0, 0, 0.8);
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-white flex items-center justify-center min-h-screen">
+
+    <div class="container w-full max-w-lg glass p-6 rounded-lg shadow-lg">
+        <h1 class="text-3xl font-extrabold text-center mb-6 neon-glow">💀 AI Roast Bot 🔥</h1>
+        
+        <!-- Roast Form -->
+        <div class="mb-4">
+            <label class="block text-sm font-medium">Enter Your Message:</label>
+            <input id="messageInput" type="text" class="w-full p-3 mt-1 bg-gray-700 rounded-md border border-gray-600 focus:outline-none focus:ring-2 focus:ring-red-500" placeholder="What should I roast you about?">
+        </div>
+
+        <!-- Roast Level -->
+        <div class="mb-4">
+            <label class="block text-sm font-medium">Select Roast Level:</label>
+            <select id="levelSelect" class="w-full p-3 mt-1 bg-gray-700 rounded-md border border-gray-600 focus:outline-none focus:ring-2 focus:ring-red-500">
+                <option value="mild">Mild (Playful)</option>
+                <option value="medium" selected>Medium (Harsh)</option>
+                <option value="savage">Savage (Merciless)</option>
+            </select>
+        </div>
+
+        <!-- Gender Selection -->
+        <div class="mb-4">
+            <label class="block text-sm font-medium">Your Gender:</label>
+            <select id="genderSelect" class="w-full p-3 mt-1 bg-gray-700 rounded-md border border-gray-600 focus:outline-none focus:ring-2 focus:ring-red-500">
+                <option value="male" selected>Male</option>
+                <option value="female">Female</option>
+            </select>
+        </div>
+
+        <!-- Submit Button -->
+        <button onclick="sendRoast()" class="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-4 rounded-md transition duration-300">
+            <i class="fas fa-fire"></i> Roast Me!
+        </button>
+
+        <!-- Loading Indicator -->
+        <div id="loadingIndicator" class="hidden loader"></div>
+
+        <!-- Roast Response -->
+        <div id="roastResponse" class="mt-6 text-lg font-semibold text-center p-4 bg-gray-700 rounded-md hidden">
+            <p id="roastText" class="whitespace-pre-line"></p>
+        </div>
+    </div>
+
+    <script>
+        const BASE_URL = "ws://127.0.0.1:8000/ws/roast"; // Change this to your deployed server URL
+        let socket = new WebSocket(BASE_URL);
+
+        socket.onopen = () => console.log("🔥 Connected to roast server!");
+        socket.onclose = () => console.log("❌ Disconnected from server!");
+
+        socket.onmessage = (event) => {
+            try {
+                let data = JSON.parse(event.data);
+                if (data.roast) {
+                    displayRoast(data.roast);
+                    hideLoading();
+                } else if (data.error) {
+                    displayRoast("❌ " + data.error);
+                    hideLoading();
+                }
+            } catch (error) {
+                console.error("Error parsing server response:", error);
+                hideLoading();
+            }
+        };
+
+        function sendRoast() {
+            let message = document.getElementById("messageInput").value.trim();
+            let level = document.getElementById("levelSelect").value;
+            let gender = document.getElementById("genderSelect").value;
+
+            if (!message) {
+                displayRoast("❌ Please enter a message to roast.");
+                return;
+            }
+
+            showLoading();
+            let requestData = JSON.stringify({ message, level, gender });
+            socket.send(requestData);
+        }
+
+        function displayRoast(roastText) {
+            let responseDiv = document.getElementById("roastResponse");
+            let roastPara = document.getElementById("roastText");
+
+            // Escape special characters to prevent formatting issues
+            roastText = roastText.replace(/\*\*/g, ""); // Remove double asterisks (**)
+            roastText = roastText.replace(/_/g, "");    // Remove underscores (_)
+
+            // Set text and show response
+            roastPara.textContent = roastText;
+            responseDiv.classList.remove("hidden");
+
+            // Scroll down to the response
+            setTimeout(() => {
+                responseDiv.scrollIntoView({ behavior: "smooth", block: "end" });
+            }, 100);
+        }
+
+        function showLoading() {
+            document.getElementById("loadingIndicator").classList.remove("hidden");
+        }
+
+        function hideLoading() {
+            document.getElementById("loadingIndicator").classList.add("hidden");
+        }
+    </script>
+
+</body>
+</html>
